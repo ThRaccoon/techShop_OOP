@@ -1,0 +1,7 @@
+﻿  Main.cpp
+C:\Games and Apps\C++\techShop\techShop\Main.cpp(76,25): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Games and Apps\C++\techShop\techShop\Main.cpp(128,33): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Games and Apps\C++\techShop\techShop\Main.cpp(197,19): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Games and Apps\C++\techShop\techShop\Main.cpp(230,33): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+C:\Games and Apps\C++\techShop\techShop\Main.cpp(246,33): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+  techShop.vcxproj -> C:\Games and Apps\C++\techShop\x64\Debug\techShop.exe
